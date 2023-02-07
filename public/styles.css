@@ -1,0 +1,12 @@
+
+
+.starIcon {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: flex !important;
+    width: 25% !important;
+    height: 25% !important;
+    -webkit-box-pack: justify !important;
+    justify-content: space-between !important;
+  }
